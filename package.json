@@ -1,5 +1,5 @@
 {
-  "name": "Real-Time-Chat-SDK", 
+  "name": "realtimechat2024", 
   "version": "1.0.0", 
   "description": "Real-Time Chat SDK is a lightweight JavaScript library for integrating real-time chat functionality into your Node.js applications.",
   "main": "./src/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "" // репозиторий (заполним чуть позже)
+    "url": "https://github.com/Tetpuc/Real-Time-Chat-SDK.git" 
   },
   "keywords": [ 
     "", 
