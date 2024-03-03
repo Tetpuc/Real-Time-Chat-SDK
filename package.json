@@ -2,7 +2,7 @@
   "name": "realtimechat2024", 
   "version": "1.0.0", 
   "description": "Real-Time Chat SDK is a lightweight JavaScript library for integrating real-time chat functionality into your Node.js applications.",
-  "main": "./src/index.js",
+  "main": "./src/chat-sdk.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
